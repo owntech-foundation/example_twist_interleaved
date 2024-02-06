@@ -1,0 +1,32 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#dfbbed",
+        "activityBar.background": "#dfbbed",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#977828",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#15202b99",
+        "editorGroup.border": "#dfbbed",
+        "panel.border": "#dfbbed",
+        "sash.hoverBorder": "#dfbbed",
+        "sideBar.border": "#dfbbed",
+        "statusBar.background": "#cc92e3",
+        "statusBar.border": "#cc92e3",
+        "statusBar.debuggingBackground": "#a9e392",
+        "statusBar.debuggingBorder": "#a9e392",
+        "statusBar.debuggingForeground": "#15202b",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#b969d9",
+        "statusBarItem.remoteBackground": "#cc92e3",
+        "statusBarItem.remoteForeground": "#15202b",
+        "tab.activeBorder": "#dfbbed",
+        "titleBar.activeBackground": "#cc92e3",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.border": "#cc92e3",
+        "titleBar.inactiveBackground": "#cc92e399",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#cc92e3",
+    "cmake.sourceDirectory": "/home/lflavado/Documents/codes_zephyr/mirror_luiz/examples/ETBInterleavedVM/zephyr"
+}
